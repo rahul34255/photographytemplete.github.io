@@ -8,3 +8,4 @@ management system. It can assist the user to concentrate on their other activiti
 on the record keeping. Thus, it will help organization in better utilization of resources. The
 organization can maintain computerized records without redundant entries. That means that one need
 not be distracted by information that is not relevant, while being able to reach the information.
+#Snapshot
